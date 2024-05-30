@@ -1,2 +1,2 @@
-# HR-Analytics-Power-Bi-Project-1
+# HR-Analytics-Power-Bi-Project-2
 Power Bi Dashboard
